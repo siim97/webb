@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "ovning1.css",
+  "sources": [
+    "ovning1.sass"
+  ],
+  "sourcesContent": [],
+  "mappings": ";AAAA,EAAE,CAAC;EACC,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,IAAK,GAFZ;;;AAIJ,UAAU,CAAC;EACP,OAAO,EAAE,IAAK;EACd,cAAc,EAAE,GAAI;EACpB,eAAe,EAAE,MAAO,GAHhB;;;AAKZ,IAAI,CAAC;EACD,OAAO,EAAE,IAAK;EACd,MAAM,EAAE,cAAe;EACvB,UAAU,EAAE,MAAO;EACnB,UAAU,EAAE,UAAW;EACvB,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,CAAC,CAAC,IAAI,GANZ",
+  "names": []
+}

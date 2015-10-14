@@ -1,0 +1,21 @@
+/* line 1, C:/Users/Simon/Documents/Webbteknik/flexbox/style/ovning1.sass */
+h1 {
+  text-align: center;
+  color: pink; }
+
+/* line 5, C:/Users/Simon/Documents/Webbteknik/flexbox/style/ovning1.sass */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+/* line 10, C:/Users/Simon/Documents/Webbteknik/flexbox/style/ovning1.sass */
+.box {
+  padding: 20px;
+  border: 1px solid #999;
+  text-align: center;
+  box-sizing: border-box;
+  width: 250px;
+  margin: 0 20px; }
+
+/*# sourceMappingURL=ovning1.css.map */
